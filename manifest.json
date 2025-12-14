@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "clientZip": "https://github.com/brunomaidana97/otclient-updates/releases/download/v1.0.0/client.zip",
-  "assetsZip": "https://github.com/brunomaidana97/otclient-updates/releases/download/v1.0.0/assets.zip",
+  "clientZip": "https://github.com/brunomaidana97/otclient-updates/releases/download/1.0.0/client.zip",
+  "assetsZip": "https://github.com/brunomaidana97/otclient-updates/releases/download/1.0.0/assets.zip",
   "assetsVersion": "1.0.0"
 }
